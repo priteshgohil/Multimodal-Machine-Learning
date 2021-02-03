@@ -1,0 +1,4 @@
+train loss file
+epoch: 0, Loss: 0.7708175182342529, LR: 0.0001
+epoch: 0, Loss: 0.7615428566932678, LR: 0.0001
+epoch: 0, Loss: 0.7520544131596884, LR: 0.0001

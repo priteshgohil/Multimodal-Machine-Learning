@@ -1,0 +1,13 @@
+train and validation loss file
+epoch: (1) 1: train Loss: 0.6969170 
+epoch: (1) 2: train Loss: 0.6953236 
+epoch: (1) 3: train Loss: 0.6958283 
+epoch: (1) 4: train Loss: 0.6958850 
+epoch: (1) 5: train Loss: 0.6951407 
+epoch: (1) 6: train Loss: 0.6956861 
+--------------------------------------------------
+epoch: (1) 1: val Loss: 0.6953785 
+epoch: (1) 2: val Loss: 0.6956305 
+--------------------------------------------------
+epoch: (2) 1: train Loss: 0.6949944 
+epoch: (2) 2: train Loss: 0.6945564 

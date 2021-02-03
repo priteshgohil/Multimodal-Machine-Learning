@@ -1,0 +1,1036 @@
+train loss file
+epoch: 0, Loss: 0.7053905725479126, LR: 0.001
+epoch: 0, Loss: 0.7041778564453125, LR: 0.001
+epoch: 0, Loss: 0.7017897367477417, LR: 0.001
+epoch: 0, Loss: 0.6993207633495331, LR: 0.001
+epoch: 0, Loss: 0.6966423749923706, LR: 0.001
+epoch: 0, Loss: 0.6941012144088745, LR: 0.001
+epoch: 0, Loss: 0.6916901384081159, LR: 0.001
+epoch: 0, Loss: 0.6892485916614532, LR: 0.001
+epoch: 0, Loss: 0.6873035165998671, LR: 0.001
+epoch: 0, Loss: 0.6847459375858307, LR: 0.001
+epoch: 0, Loss: 0.6832778670571067, LR: 0.001
+epoch: 0, Loss: 0.6807118356227875, LR: 0.001
+epoch: 0, Loss: 0.6775931807664725, LR: 0.001
+epoch: 0, Loss: 0.675227450472968, LR: 0.001
+epoch: 0, Loss: 0.6713590184847514, LR: 0.001
+epoch: 0, Loss: 0.6695207096636295, LR: 0.001
+epoch: 0, Loss: 0.6660702719407923, LR: 0.001
+epoch: 0, Loss: 0.6619118021594154, LR: 0.001
+epoch: 0, Loss: 0.6584271318034122, LR: 0.001
+epoch: 1, Loss: 0.6016480922698975, LR: 0.001
+epoch: 1, Loss: 0.5849833190441132, LR: 0.001
+epoch: 1, Loss: 0.5761043230692545, LR: 0.001
+epoch: 1, Loss: 0.5692569613456726, LR: 0.001
+epoch: 1, Loss: 0.5606627225875854, LR: 0.001
+epoch: 1, Loss: 0.5589522620042165, LR: 0.001
+epoch: 1, Loss: 0.570818977696555, LR: 0.001
+epoch: 1, Loss: 0.5650424212217331, LR: 0.001
+epoch: 1, Loss: 0.5640350977579752, LR: 0.001
+epoch: 1, Loss: 0.5547783583402633, LR: 0.001
+epoch: 1, Loss: 0.5475421764633872, LR: 0.001
+epoch: 1, Loss: 0.5412651002407074, LR: 0.001
+epoch: 1, Loss: 0.5410844270999615, LR: 0.001
+epoch: 1, Loss: 0.5371450930833817, LR: 0.001
+epoch: 1, Loss: 0.5292094786961873, LR: 0.001
+epoch: 1, Loss: 0.5289497151970863, LR: 0.001
+epoch: 1, Loss: 0.5260683140333962, LR: 0.001
+epoch: 1, Loss: 0.5228997038470374, LR: 0.001
+epoch: 1, Loss: 0.5247135601545635, LR: 0.001
+epoch: 2, Loss: 0.5216060876846313, LR: 0.001
+epoch: 2, Loss: 0.5534187853336334, LR: 0.001
+epoch: 2, Loss: 0.5336936116218567, LR: 0.001
+epoch: 2, Loss: 0.5170236527919769, LR: 0.001
+epoch: 2, Loss: 0.5427526950836181, LR: 0.001
+epoch: 2, Loss: 0.536550909280777, LR: 0.001
+epoch: 2, Loss: 0.5178313553333282, LR: 0.001
+epoch: 2, Loss: 0.5195544026792049, LR: 0.001
+epoch: 2, Loss: 0.50960487458441, LR: 0.001
+epoch: 2, Loss: 0.49612025916576385, LR: 0.001
+epoch: 2, Loss: 0.4854508638381958, LR: 0.001
+epoch: 2, Loss: 0.4909009238084157, LR: 0.001
+epoch: 2, Loss: 0.48909456913287824, LR: 0.001
+epoch: 2, Loss: 0.48836649315697805, LR: 0.001
+epoch: 2, Loss: 0.4760555664698283, LR: 0.001
+epoch: 2, Loss: 0.4636244736611843, LR: 0.001
+epoch: 2, Loss: 0.453985217739554, LR: 0.001
+epoch: 2, Loss: 0.45115409791469574, LR: 0.001
+epoch: 2, Loss: 0.4945468573193801, LR: 0.001
+epoch: 3, Loss: 0.5654962062835693, LR: 0.001
+epoch: 3, Loss: 0.46828944981098175, LR: 0.001
+epoch: 3, Loss: 0.4910570482412974, LR: 0.001
+epoch: 3, Loss: 0.49318864196538925, LR: 0.001
+epoch: 3, Loss: 0.47415787577629087, LR: 0.001
+epoch: 3, Loss: 0.4656653553247452, LR: 0.001
+epoch: 3, Loss: 0.4626462757587433, LR: 0.001
+epoch: 3, Loss: 0.47083770856261253, LR: 0.001
+epoch: 3, Loss: 0.4644668201605479, LR: 0.001
+epoch: 3, Loss: 0.4678720563650131, LR: 0.001
+epoch: 3, Loss: 0.47535068609497766, LR: 0.001
+epoch: 3, Loss: 0.4602625419696172, LR: 0.001
+epoch: 3, Loss: 0.4594027606340555, LR: 0.001
+epoch: 3, Loss: 0.45828937206949505, LR: 0.001
+epoch: 3, Loss: 0.45697147647539776, LR: 0.001
+epoch: 3, Loss: 0.45752626471221447, LR: 0.001
+epoch: 3, Loss: 0.463248552644954, LR: 0.001
+epoch: 3, Loss: 0.46048060059547424, LR: 0.001
+epoch: 3, Loss: 0.4659915848782188, LR: 0.001
+epoch: 4, Loss: 0.4354691207408905, LR: 0.001
+epoch: 4, Loss: 0.4793197959661484, LR: 0.001
+epoch: 4, Loss: 0.43588097890218097, LR: 0.001
+epoch: 4, Loss: 0.4362975209951401, LR: 0.001
+epoch: 4, Loss: 0.4483377516269684, LR: 0.001
+epoch: 4, Loss: 0.4587804029385249, LR: 0.001
+epoch: 4, Loss: 0.4439941474369594, LR: 0.001
+epoch: 4, Loss: 0.4472290091216564, LR: 0.001
+epoch: 4, Loss: 0.4556772940688663, LR: 0.001
+epoch: 4, Loss: 0.45452879667282103, LR: 0.001
+epoch: 4, Loss: 0.45517999746582727, LR: 0.001
+epoch: 4, Loss: 0.45368091265360516, LR: 0.001
+epoch: 4, Loss: 0.4545963085614718, LR: 0.001
+epoch: 4, Loss: 0.4526218261037554, LR: 0.001
+epoch: 4, Loss: 0.452306733528773, LR: 0.001
+epoch: 4, Loss: 0.4507705941796303, LR: 0.001
+epoch: 4, Loss: 0.45138218122370105, LR: 0.001
+epoch: 4, Loss: 0.4552612039777968, LR: 0.001
+epoch: 4, Loss: 0.4700206957365337, LR: 0.001
+test loss file
+0: Loss: 0.11000 and lr: 0.00100.... Network output: 0.89584 and actual label: 1.0, total_loss: 0.10999806225299835 
+1: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.903713084757328 
+2: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 1.168284758925438 
+3: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 1.3005705960094929 
+4: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 1.3799420982599258 
+5: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 1.183669184645017 
+6: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 1.0434742463486535 
+7: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.9383280426263809 
+8: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.8565476619535022 
+9: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.7911233574151992 
+10: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.7375943809747696 
+11: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.6929869006077448 
+12: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.6552421095279547 
+13: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.6228894314595631 
+14: Loss: 0.19438 and lr: 0.00100.... Network output: 0.82335 and actual label: 1.0, total_loss: 0.5943221181631089 
+15: Loss: 0.15344 and lr: 0.00100.... Network output: 0.85775 and actual label: 1.0, total_loss: 0.5667671672999859 
+16: Loss: 0.16766 and lr: 0.00100.... Network output: 0.84564 and actual label: 1.0, total_loss: 0.5432901435038623 
+17: Loss: 0.18815 and lr: 0.00100.... Network output: 0.82849 and actual label: 1.0, total_loss: 0.5235601142048836 
+18: Loss: 0.19611 and lr: 0.00100.... Network output: 0.82192 and actual label: 1.0, total_loss: 0.5063261303462481 
+19: Loss: 0.22556 and lr: 0.00100.... Network output: 0.79807 and actual label: 1.0, total_loss: 0.4922880381345749 
+20: Loss: 0.23008 and lr: 0.00100.... Network output: 0.79447 and actual label: 1.0, total_loss: 0.4798017342885335 
+21: Loss: 0.22648 and lr: 0.00100.... Network output: 0.79733 and actual label: 1.0, total_loss: 0.46828719770366495 
+22: Loss: 0.12269 and lr: 0.00100.... Network output: 0.88454 and actual label: 1.0, total_loss: 0.4532612154017324 
+23: Loss: 0.12007 and lr: 0.00100.... Network output: 0.88686 and actual label: 1.0, total_loss: 0.4393780929967761 
+24: Loss: 0.14328 and lr: 0.00100.... Network output: 0.86651 and actual label: 1.0, total_loss: 0.4275343582034111 
+25: Loss: 0.22690 and lr: 0.00100.... Network output: 0.79700 and actual label: 1.0, total_loss: 0.41981752703969294 
+26: Loss: 0.22222 and lr: 0.00100.... Network output: 0.80074 and actual label: 1.0, total_loss: 0.41249899980094695 
+27: Loss: 0.22969 and lr: 0.00100.... Network output: 0.79478 and actual label: 1.0, total_loss: 0.4059702432049172 
+28: Loss: 0.21400 and lr: 0.00100.... Network output: 0.80735 and actual label: 1.0, total_loss: 0.39935051341509 
+29: Loss: 0.18717 and lr: 0.00100.... Network output: 0.82930 and actual label: 1.0, total_loss: 0.39227782264351846 
+30: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.38614965470567825 
+31: Loss: 0.12338 and lr: 0.00100.... Network output: 0.88392 and actual label: 1.0, total_loss: 0.3779382258653641 
+32: Loss: 0.12151 and lr: 0.00100.... Network output: 0.88558 and actual label: 1.0, total_loss: 0.37016772569128964 
+33: Loss: 0.12180 and lr: 0.00100.... Network output: 0.88532 and actual label: 1.0, total_loss: 0.3628629382480593 
+34: Loss: 0.12572 and lr: 0.00100.... Network output: 0.88186 and actual label: 1.0, total_loss: 0.35608747197049007 
+35: Loss: 0.14231 and lr: 0.00100.... Network output: 0.86735 and actual label: 1.0, total_loss: 0.35014929105010295 
+36: Loss: 0.11611 and lr: 0.00100.... Network output: 0.89038 and actual label: 1.0, total_loss: 0.343823949428829 
+37: Loss: 0.11919 and lr: 0.00100.... Network output: 0.88764 and actual label: 1.0, total_loss: 0.3379125795082042 
+38: Loss: 0.14492 and lr: 0.00100.... Network output: 0.86509 and actual label: 1.0, total_loss: 0.33296410739421844 
+39: Loss: 0.11859 and lr: 0.00100.... Network output: 0.88817 and actual label: 1.0, total_loss: 0.3276047956198454 
+40: Loss: 0.14205 and lr: 0.00100.... Network output: 0.86757 and actual label: 1.0, total_loss: 0.3230791695234252 
+41: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.3202035849293073 
+42: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.317461748455846 
+43: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.31484454091299663 
+44: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.31234365370538497 
+45: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.30995150072419125 
+46: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.3394722795866905 
+47: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.36776302599658567 
+48: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.3948990480632198 
+49: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.3910471594333649 
+50: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.3873463252595827 
+51: Loss: 0.19391 and lr: 0.00100.... Network output: 0.82373 and actual label: 1.0, total_loss: 0.38362637477425426 
+52: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.3802052095251263 
+53: Loss: 0.18362 and lr: 0.00100.... Network output: 0.83225 and actual label: 1.0, total_loss: 0.37656477452428255 
+54: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.3733964080160314 
+55: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.3703411974545036 
+56: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.3673931872635557 
+57: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.36454683259643356 
+58: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.36179696452819693 
+59: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.35913875872890155 
+60: Loss: 0.18368 and lr: 0.00100.... Network output: 0.83220 and actual label: 1.0, total_loss: 0.3562624483812051 
+61: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.37789415255669623 
+62: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.3988391359647115 
+63: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.4191295886412263 
+64: Loss: 1.75266 and lr: 0.00100.... Network output: 0.82669 and actual label: 0.0, total_loss: 0.4396453811572148 
+65: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.45870269518910034 
+66: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.4771911341752579 
+67: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.4951357955441755 
+68: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4908918654141219 
+69: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.48676919043064115 
+70: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.482762647136836 
+71: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.47886739671230316 
+72: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.47507886547748357 
+73: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4713927269787402 
+74: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.46780488550662996 
+75: Loss: 0.24144 and lr: 0.00100.... Network output: 0.78550 and actual label: 1.0, total_loss: 0.46482639759778976 
+76: Loss: 0.24907 and lr: 0.00100.... Network output: 0.77952 and actual label: 1.0, total_loss: 0.46202439147156554 
+77: Loss: 0.25473 and lr: 0.00100.... Network output: 0.77512 and actual label: 1.0, total_loss: 0.45936678961301464 
+78: Loss: 0.12278 and lr: 0.00100.... Network output: 0.88446 and actual label: 1.0, total_loss: 0.45510621963045267 
+79: Loss: 0.11896 and lr: 0.00100.... Network output: 0.88785 and actual label: 1.0, total_loss: 0.45090434327721596 
+80: Loss: 0.11665 and lr: 0.00100.... Network output: 0.88990 and actual label: 1.0, total_loss: 0.44677774985263374 
+81: Loss: 0.12475 and lr: 0.00100.... Network output: 0.88272 and actual label: 1.0, total_loss: 0.4428505576783564 
+82: Loss: 2.06153 and lr: 0.00100.... Network output: 0.87274 and actual label: 0.0, total_loss: 0.46235276408583287 
+83: Loss: 1.89752 and lr: 0.00100.... Network output: 0.85006 and actual label: 0.0, total_loss: 0.4794380621363719 
+84: Loss: 1.83363 and lr: 0.00100.... Network output: 0.84017 and actual label: 0.0, total_loss: 0.49536971335901936 
+85: Loss: 1.56111 and lr: 0.00100.... Network output: 0.79010 and actual label: 0.0, total_loss: 0.5077620064623134 
+86: Loss: 1.55783 and lr: 0.00100.... Network output: 0.78941 and actual label: 0.0, total_loss: 0.5198318066781965 
+87: Loss: 0.22963 and lr: 0.00100.... Network output: 0.79483 and actual label: 1.0, total_loss: 0.5165340842001818 
+88: Loss: 0.23852 and lr: 0.00100.... Network output: 0.78780 and actual label: 1.0, total_loss: 0.5134102875429593 
+89: Loss: 0.23592 and lr: 0.00100.... Network output: 0.78985 and actual label: 1.0, total_loss: 0.5103270326223638 
+90: Loss: 0.23817 and lr: 0.00100.... Network output: 0.78807 and actual label: 1.0, total_loss: 0.5073363233234857 
+91: Loss: 0.24853 and lr: 0.00100.... Network output: 0.77995 and actual label: 1.0, total_loss: 0.5045231769428306 
+92: Loss: 0.22583 and lr: 0.00100.... Network output: 0.79786 and actual label: 1.0, total_loss: 0.5015264296884178 
+93: Loss: 0.22904 and lr: 0.00100.... Network output: 0.79530 and actual label: 1.0, total_loss: 0.4986276445078089 
+94: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.49550845474004745 
+95: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.5080284511204809 
+96: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.5202903032456476 
+97: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.532301913490709 
+98: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.5440708649429408 
+99: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.5406532024592161 
+100: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.5373032164603176 
+101: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.5340189164613977 
+102: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.5307983892779906 
+103: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.5276397953096491 
+104: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.5245413650359426 
+105: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.5215013957107967 
+106: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.5185182482421955 
+107: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.5155903442452351 
+108: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.5127161632573932 
+109: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.509894240105694 
+110: Loss: 0.19625 and lr: 0.00100.... Network output: 0.82181 and actual label: 1.0, total_loss: 0.5070686323551444 
+111: Loss: 0.11662 and lr: 0.00100.... Network output: 0.88992 and actual label: 1.0, total_loss: 0.503582487082375 
+112: Loss: 0.11673 and lr: 0.00100.... Network output: 0.88982 and actual label: 1.0, total_loss: 0.500159046093447 
+113: Loss: 0.11759 and lr: 0.00100.... Network output: 0.88906 and actual label: 1.0, total_loss: 0.49680320010112045 
+114: Loss: 0.11570 and lr: 0.00100.... Network output: 0.89075 and actual label: 1.0, total_loss: 0.49348921633285026 
+115: Loss: 0.11609 and lr: 0.00100.... Network output: 0.89040 and actual label: 1.0, total_loss: 0.49023575008172415 
+116: Loss: 0.11355 and lr: 0.00100.... Network output: 0.89266 and actual label: 1.0, total_loss: 0.48701623152209145 
+117: Loss: 0.12916 and lr: 0.00100.... Network output: 0.87884 and actual label: 1.0, total_loss: 0.48398353153113594 
+118: Loss: 0.11666 and lr: 0.00100.... Network output: 0.88988 and actual label: 1.0, total_loss: 0.48089681421758745 
+119: Loss: 0.11290 and lr: 0.00100.... Network output: 0.89324 and actual label: 1.0, total_loss: 0.4778301446388165 
+120: Loss: 0.18287 and lr: 0.00100.... Network output: 0.83288 and actual label: 1.0, total_loss: 0.47539247067506646 
+121: Loss: 0.21271 and lr: 0.00100.... Network output: 0.80839 and actual label: 1.0, total_loss: 0.47323935149145907 
+122: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4710366300693372 
+123: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.46886943641208834 
+124: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4667369178533554 
+125: Loss: 0.19699 and lr: 0.00100.... Network output: 0.82120 and actual label: 1.0, total_loss: 0.4645960846590617 
+126: Loss: 0.13122 and lr: 0.00100.... Network output: 0.87703 and actual label: 1.0, total_loss: 0.46197105897223856 
+127: Loss: 0.12113 and lr: 0.00100.... Network output: 0.88592 and actual label: 1.0, total_loss: 0.45930821273941547 
+128: Loss: 0.11992 and lr: 0.00100.... Network output: 0.88699 and actual label: 1.0, total_loss: 0.45667733038349667 
+129: Loss: 0.19513 and lr: 0.00100.... Network output: 0.82273 and actual label: 1.0, total_loss: 0.454665415848677 
+130: Loss: 0.23238 and lr: 0.00100.... Network output: 0.79265 and actual label: 1.0, total_loss: 0.45296855833921723 
+131: Loss: 0.23512 and lr: 0.00100.... Network output: 0.79047 and actual label: 1.0, total_loss: 0.4513182160867886 
+132: Loss: 0.23740 and lr: 0.00100.... Network output: 0.78867 and actual label: 1.0, total_loss: 0.4497098434800492 
+133: Loss: 0.17154 and lr: 0.00100.... Network output: 0.84237 and actual label: 1.0, total_loss: 0.4476339334983434 
+134: Loss: 0.12674 and lr: 0.00100.... Network output: 0.88096 and actual label: 1.0, total_loss: 0.44525697005015835 
+135: Loss: 0.15770 and lr: 0.00100.... Network output: 0.85410 and actual label: 1.0, total_loss: 0.4431426066576558 
+136: Loss: 0.22684 and lr: 0.00100.... Network output: 0.79705 and actual label: 1.0, total_loss: 0.4415637439076048 
+137: Loss: 0.22746 and lr: 0.00100.... Network output: 0.79655 and actual label: 1.0, total_loss: 0.4400123005219992 
+138: Loss: 0.22291 and lr: 0.00100.... Network output: 0.80019 and actual label: 1.0, total_loss: 0.4384504015818774 
+139: Loss: 0.22988 and lr: 0.00100.... Network output: 0.79463 and actual label: 1.0, total_loss: 0.4369605952607734 
+140: Loss: 0.20689 and lr: 0.00100.... Network output: 0.81311 and actual label: 1.0, total_loss: 0.4353289207351123 
+141: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4336879045086008 
+142: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4320698395579845 
+143: Loss: 0.11825 and lr: 0.00100.... Network output: 0.88847 and actual label: 1.0, total_loss: 0.42989055362219614 
+144: Loss: 0.10495 and lr: 0.00100.... Network output: 0.90037 and actual label: 1.0, total_loss: 0.4276496153453301 
+145: Loss: 0.16826 and lr: 0.00100.... Network output: 0.84513 and actual label: 1.0, total_loss: 0.42587297287297576 
+146: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.42435209970084986 
+147: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.42285177886888786 
+148: Loss: 0.17718 and lr: 0.00100.... Network output: 0.83763 and actual label: 1.0, total_loss: 0.42120296773094457 
+149: Loss: 0.12894 and lr: 0.00100.... Network output: 0.87903 and actual label: 1.0, total_loss: 0.4192545536160469 
+150: Loss: 0.10623 and lr: 0.00100.... Network output: 0.89922 and actual label: 1.0, total_loss: 0.41718156231160197 
+151: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.415767898194884 
+152: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4143727133476656 
+153: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.41299564778417736 
+154: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.41163635080860506 
+155: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.410294480717335 
+156: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4089697045125779 
+157: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4076616976268684 
+158: Loss: 0.11993 and lr: 0.00100.... Network output: 0.88698 and actual label: 1.0, total_loss: 0.40585206894192305 
+159: Loss: 0.11872 and lr: 0.00100.... Network output: 0.88806 and actual label: 1.0, total_loss: 0.404057495854795 
+160: Loss: 0.12297 and lr: 0.00100.... Network output: 0.88429 and actual label: 1.0, total_loss: 0.40231158228024194 
+161: Loss: 0.12579 and lr: 0.00100.... Network output: 0.88180 and actual label: 1.0, total_loss: 0.4006046650954235 
+162: Loss: 0.12853 and lr: 0.00100.... Network output: 0.87939 and actual label: 1.0, total_loss: 0.39893548702535453 
+163: Loss: 0.12730 and lr: 0.00100.... Network output: 0.88047 and actual label: 1.0, total_loss: 0.3972791602335325 
+164: Loss: 0.12749 and lr: 0.00100.... Network output: 0.88031 and actual label: 1.0, total_loss: 0.3956440511978034 
+165: Loss: 0.14253 and lr: 0.00100.... Network output: 0.86716 and actual label: 1.0, total_loss: 0.3941192749932588 
+166: Loss: 0.11890 and lr: 0.00100.... Network output: 0.88789 and actual label: 1.0, total_loss: 0.3924712763575023 
+167: Loss: 0.17058 and lr: 0.00100.... Network output: 0.84317 and actual label: 1.0, total_loss: 0.3911505066567943 
+168: Loss: 0.21006 and lr: 0.00100.... Network output: 0.81053 and actual label: 1.0, total_loss: 0.3900789888300134 
+169: Loss: 0.22808 and lr: 0.00100.... Network output: 0.79606 and actual label: 1.0, total_loss: 0.3891260623055346 
+170: Loss: 0.26106 and lr: 0.00100.... Network output: 0.77023 and actual label: 1.0, total_loss: 0.3883771463270076 
+171: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.3872953292935394 
+172: Loss: 0.13227 and lr: 0.00100.... Network output: 0.87611 and actual label: 1.0, total_loss: 0.38582116770261976 
+173: Loss: 0.16405 and lr: 0.00100.... Network output: 0.84870 and actual label: 1.0, total_loss: 0.38454660028219223 
+174: Loss: 0.11821 and lr: 0.00100.... Network output: 0.88851 and actual label: 1.0, total_loss: 0.38302465374980654 
+175: Loss: 0.11969 and lr: 0.00100.... Network output: 0.88720 and actual label: 1.0, total_loss: 0.38152842117812147 
+176: Loss: 0.16054 and lr: 0.00100.... Network output: 0.85168 and actual label: 1.0, total_loss: 0.3802799018847067 
+177: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.37928004073125593 
+178: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.37829135121080465 
+179: Loss: 0.12328 and lr: 0.00100.... Network output: 0.88401 and actual label: 1.0, total_loss: 0.3768746351202329 
+180: Loss: 0.12135 and lr: 0.00100.... Network output: 0.88573 and actual label: 1.0, total_loss: 0.37546287452318394 
+181: Loss: 0.11573 and lr: 0.00100.... Network output: 0.89072 and actual label: 1.0, total_loss: 0.37403576673714667 
+182: Loss: 0.21166 and lr: 0.00100.... Network output: 0.80924 and actual label: 1.0, total_loss: 0.3731484574372651 
+183: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.3722199583021195 
+184: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.37130149699546194 
+185: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.37039291161683296 
+186: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.3694940437288845 
+187: Loss: 0.11365 and lr: 0.00100.... Network output: 0.89257 and actual label: 1.0, total_loss: 0.3681331545986394 
+188: Loss: 0.11143 and lr: 0.00100.... Network output: 0.89455 and actual label: 1.0, total_loss: 0.3667749581198213 
+189: Loss: 0.10476 and lr: 0.00100.... Network output: 0.90054 and actual label: 1.0, total_loss: 0.3653959184492889 
+190: Loss: 0.11277 and lr: 0.00100.... Network output: 0.89335 and actual label: 1.0, total_loss: 0.3640732883782911 
+191: Loss: 0.13580 and lr: 0.00100.... Network output: 0.87302 and actual label: 1.0, total_loss: 0.36288437674132484 
+192: Loss: 0.11943 and lr: 0.00100.... Network output: 0.88743 and actual label: 1.0, total_loss: 0.3616229509983038 
+193: Loss: 0.17629 and lr: 0.00100.... Network output: 0.83837 and actual label: 1.0, total_loss: 0.3606676405929413 
+194: Loss: 0.11762 and lr: 0.00100.... Network output: 0.88904 and actual label: 1.0, total_loss: 0.3594212225996531 
+195: Loss: 0.10809 and lr: 0.00100.... Network output: 0.89754 and actual label: 1.0, total_loss: 0.35813893522230944 
+196: Loss: 0.22357 and lr: 0.00100.... Network output: 0.79966 and actual label: 1.0, total_loss: 0.3574558458655014 
+197: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.35667225379835477 
+198: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.3558965370283654 
+199: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.35512857742607595 
+200: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.35436825921286397 
+201: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.35361546890275314 
+202: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.35287009524594387 
+203: Loss: 0.20217 and lr: 0.00100.... Network output: 0.81696 and actual label: 1.0, total_loss: 0.3521313727924637 
+204: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.35869379588743533 
+205: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.3651925061368248 
+206: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.37162842691520565 
+207: Loss: 1.75720 and lr: 0.00100.... Network output: 0.82747 and actual label: 0.0, total_loss: 0.37828982528299093 
+208: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.3846014917039415 
+209: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.3908530470161211 
+210: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.3899594525590327 
+211: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.38907428823833196 
+212: Loss: 0.20890 and lr: 0.00100.... Network output: 0.81147 and actual label: 1.0, total_loss: 0.3882284181218752 
+213: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.3873596153108873 
+214: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.3864988943865133 
+215: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.3856461431003279 
+216: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.3848012512730014 
+217: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.383964110746843 
+218: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.383134615339645 
+219: Loss: 0.13217 and lr: 0.00100.... Network output: 0.87619 and actual label: 1.0, total_loss: 0.38199387287551706 
+220: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.3879460639813367 
+221: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.3938446317438607 
+222: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.3996902975533575 
+223: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.40548376991812674 
+224: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4045807514588038 
+225: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4036857243132802 
+226: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4027985828694793 
+227: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4019192233681679 
+228: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4010475438625011 
+229: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4001834441786227 
+230: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.39932682587728874 
+231: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.3984775922164835 
+232: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.39763564811499846 
+233: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.3968009001169449 
+234: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.4023354839771352 
+235: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.407823164584273 
+236: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.4132645356504223 
+237: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.418660180909293 
+238: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.4240106743249933 
+239: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4230868990843495 
+240: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4221707900282753 
+241: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4212622521214249 
+242: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4203611918928201 
+243: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4194675174037941 
+244: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.41858113821671933 
+245: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.41770196536449883 
+246: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.41682991132079833 
+247: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4159648899709986 
+248: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4151068165838479 
+249: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4142556077837944 
+250: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4134111815239804 
+251: Loss: 0.24090 and lr: 0.00100.... Network output: 0.78592 and actual label: 1.0, total_loss: 0.4127266264505803 
+252: Loss: 0.23995 and lr: 0.00100.... Network output: 0.78667 and actual label: 1.0, total_loss: 0.4120437091164909 
+253: Loss: 0.12879 and lr: 0.00100.... Network output: 0.87916 and actual label: 1.0, total_loss: 0.41092853312651945 
+254: Loss: 0.11883 and lr: 0.00100.... Network output: 0.88796 and actual label: 1.0, total_loss: 0.4097830633906757 
+255: Loss: 0.14937 and lr: 0.00100.... Network output: 0.86125 and actual label: 1.0, total_loss: 0.4087658100761473 
+256: Loss: 0.18889 and lr: 0.00100.... Network output: 0.82788 and actual label: 1.0, total_loss: 0.4079102624483146 
+257: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.4129083936297616 
+258: Loss: 1.85423 and lr: 0.00100.... Network output: 0.84343 and actual label: 0.0, total_loss: 0.4184733310491422 
+259: Loss: 1.53884 and lr: 0.00100.... Network output: 0.78537 and actual label: 0.0, total_loss: 0.4227824452977914 
+260: Loss: 1.54406 and lr: 0.00100.... Network output: 0.78649 and actual label: 0.0, total_loss: 0.4270785251111363 
+261: Loss: 0.23726 and lr: 0.00100.... Network output: 0.78879 and actual label: 1.0, total_loss: 0.4263540142365084 
+262: Loss: 0.22188 and lr: 0.00100.... Network output: 0.80101 and actual label: 1.0, total_loss: 0.42557654249350835 
+263: Loss: 0.22006 and lr: 0.00100.... Network output: 0.80247 and actual label: 1.0, total_loss: 0.4247980532095288 
+264: Loss: 0.24387 and lr: 0.00100.... Network output: 0.78359 and actual label: 1.0, total_loss: 0.424115304283376 
+265: Loss: 0.25368 and lr: 0.00100.... Network output: 0.77594 and actual label: 1.0, total_loss: 0.42347457528786553 
+266: Loss: 0.25025 and lr: 0.00100.... Network output: 0.77861 and actual label: 1.0, total_loss: 0.4228257916951447 
+267: Loss: 0.24506 and lr: 0.00100.... Network output: 0.78266 and actual label: 1.0, total_loss: 0.42216247764985954 
+268: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4213451621811629 
+269: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.4260713953110907 
+270: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.4307627484917201 
+271: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.43541960642837424 
+272: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4345657053666237 
+273: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4337180371593385 
+274: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4328765338117426 
+275: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.43204112831449165 
+276: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.43121175462588507 
+277: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4303883476544627 
+278: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4295708432419753 
+279: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.42875917814671993 
+280: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4279532900272315 
+281: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.427153117426321 
+282: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4263585997554523 
+283: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.42556967727944883 
+284: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.43003233843728117 
+285: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.4344637921744293 
+286: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.43886436470086565 
+287: Loss: 1.73982 and lr: 0.00100.... Network output: 0.82445 and actual label: 0.0, total_loss: 0.4433815755053527 
+288: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.44772083686091085 
+289: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4468745740323231 
+290: Loss: 0.19508 and lr: 0.00100.... Network output: 0.82277 and actual label: 1.0, total_loss: 0.4460093136812813 
+291: Loss: 0.18748 and lr: 0.00100.... Network output: 0.82905 and actual label: 1.0, total_loss: 0.4451239368278686 
+292: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.44429520194644406 
+293: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4434721047172741 
+294: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4426545878083019 
+295: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.44184259466222814 
+296: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.441036069483468 
+297: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4402349572253707 
+298: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4394392035776955 
+299: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.44363249992330867 
+300: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.44779793383473177 
+301: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.45193578209111235 
+302: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.45111191685837093 
+303: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4502934717916344 
+304: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.44948039357779457 
+305: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.44867262960064647 
+306: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4478701279295384 
+307: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4470728373082427 
+308: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.44628070714404283 
+309: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4454936874970313 
+310: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4447117290696147 
+311: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.44393478319622004 
+312: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.44316280183319845 
+313: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.44239573754892225 
+314: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.44637996729404206 
+315: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.4503389803952054 
+316: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.4542730154957305 
+317: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.4581823082371328 
+318: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4573801838118455 
+319: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.45658307266421616 
+320: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4557909279411827 
+321: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4550037033717084 
+322: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.45422135325777274 
+323: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.453443832465528 
+324: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4526710964166201 
+325: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.45190310107966875 
+326: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4511398029619036 
+327: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4503811591009541 
+328: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.44962712705678853 
+329: Loss: 0.11663 and lr: 0.00100.... Network output: 0.88991 and actual label: 1.0, total_loss: 0.44861805003249283 
+330: Loss: 0.11333 and lr: 0.00100.... Network output: 0.89285 and actual label: 1.0, total_loss: 0.4476051073285028 
+331: Loss: 0.11963 and lr: 0.00100.... Network output: 0.88725 and actual label: 1.0, total_loss: 0.44661722085382566 
+332: Loss: 0.11017 and lr: 0.00100.... Network output: 0.89568 and actual label: 1.0, total_loss: 0.4456068659061426 
+333: Loss: 0.21606 and lr: 0.00100.... Network output: 0.80569 and actual label: 1.0, total_loss: 0.4449195854678125 
+334: Loss: 0.22829 and lr: 0.00100.... Network output: 0.79589 and actual label: 1.0, total_loss: 0.4442729349456616 
+335: Loss: 0.27464 and lr: 0.00100.... Network output: 0.75984 and actual label: 1.0, total_loss: 0.4437680851135935 
+336: Loss: 0.24452 and lr: 0.00100.... Network output: 0.78308 and actual label: 1.0, total_loss: 0.4431768563363248 
+337: Loss: 0.14080 and lr: 0.00100.... Network output: 0.86866 and actual label: 1.0, total_loss: 0.44228226299116596 
+338: Loss: 0.11375 and lr: 0.00100.... Network output: 0.89248 and actual label: 1.0, total_loss: 0.441313147193211 
+339: Loss: 0.18421 and lr: 0.00100.... Network output: 0.83176 and actual label: 1.0, total_loss: 0.44055697541026506 
+340: Loss: 0.29294 and lr: 0.00100.... Network output: 0.74607 and actual label: 1.0, total_loss: 0.4401240730740108 
+341: Loss: 0.24940 and lr: 0.00100.... Network output: 0.77927 and actual label: 1.0, total_loss: 0.43956639813749415 
+342: Loss: 0.28435 and lr: 0.00100.... Network output: 0.75251 and actual label: 1.0, total_loss: 0.4391138577947811 
+343: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4384254588377337 
+344: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.43774105059927787 
+345: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.43706059847780737 
+346: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.4406927815002392 
+347: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.44430408990759956 
+348: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.44789470313784047 
+349: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.4514647985781942 
+350: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.4550145515943864 
+351: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4542966256426139 
+352: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4535827672599733 
+353: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4528729419755397 
+354: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.452167115706793 
+355: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4514652547541629 
+356: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4507673257956652 
+357: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4500732958816283 
+358: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4493831324295081 
+359: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4486968032187886 
+360: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.44801427638596775 
+361: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4473355204196266 
+362: Loss: 0.13602 and lr: 0.00100.... Network output: 0.87283 and actual label: 1.0, total_loss: 0.4464778954332525 
+363: Loss: 0.11662 and lr: 0.00100.... Network output: 0.88992 and actual label: 1.0, total_loss: 0.4455716913709274 
+364: Loss: 0.11790 and lr: 0.00100.... Network output: 0.88878 and actual label: 1.0, total_loss: 0.4446739662591725 
+365: Loss: 0.10739 and lr: 0.00100.... Network output: 0.89817 and actual label: 1.0, total_loss: 0.4437524309493805 
+366: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4430945349973944 
+367: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4424402145668864 
+368: Loss: 0.17125 and lr: 0.00100.... Network output: 0.84261 and actual label: 1.0, total_loss: 0.4417052873508717 
+369: Loss: 0.25453 and lr: 0.00100.... Network output: 0.77528 and actual label: 1.0, total_loss: 0.44119939993362167 
+370: Loss: 0.26510 and lr: 0.00100.... Network output: 0.76713 and actual label: 1.0, total_loss: 0.4407247510962088 
+371: Loss: 0.21434 and lr: 0.00100.... Network output: 0.80707 and actual label: 1.0, total_loss: 0.44011619739154334 
+372: Loss: 0.22736 and lr: 0.00100.... Network output: 0.79664 and actual label: 1.0, total_loss: 0.4395458000754543 
+373: Loss: 0.23926 and lr: 0.00100.... Network output: 0.78721 and actual label: 1.0, total_loss: 0.4390102684258777 
+374: Loss: 0.26806 and lr: 0.00100.... Network output: 0.76486 and actual label: 1.0, total_loss: 0.4385543901522954 
+375: Loss: 0.21652 and lr: 0.00100.... Network output: 0.80532 and actual label: 1.0, total_loss: 0.43796386918488966 
+376: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4373387783291485 
+377: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.4406723479824091 
+378: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.44398832623908263 
+379: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.44728685197861573 
+380: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.45056806262240323 
+381: Loss: 1.69743 and lr: 0.00100.... Network output: 0.81685 and actual label: 0.0, total_loss: 0.45383209415287246 
+382: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.453175364446391 
+383: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4525220552071308 
+384: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4518721397821005 
+385: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.45122559179450566 
+386: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.45058238514017995 
+387: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.4499424939840725 
+388: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.44930589275678817 
+389: Loss: 0.20230 and lr: 0.00100.... Network output: 0.81685 and actual label: 1.0, total_loss: 0.44867255615118223 
+----------------------------------------------------------------------------------------------------
+Network information
+learning rate: 0.001, batch size: 50, saved model name: dummy, optimizer : Adam, learning steps: [10,20,25] 
+----------------------------------------------------------------------------------------------------
+Confusion matrix for test data 
+TP: 323, TN: 0, FP: 67, FN: 0 
+epoch: 5, Loss: 0.4974048137664795, LR: 0.001
+epoch: 5, Loss: 0.4495569169521332, LR: 0.001
+epoch: 5, Loss: 0.4421190122763316, LR: 0.001
+epoch: 5, Loss: 0.4475448206067085, LR: 0.001
+epoch: 5, Loss: 0.4741396963596344, LR: 0.001
+epoch: 5, Loss: 0.45389753580093384, LR: 0.001
+epoch: 5, Loss: 0.4516918786934444, LR: 0.001
+epoch: 5, Loss: 0.4519383870065212, LR: 0.001
+epoch: 5, Loss: 0.4487744602892134, LR: 0.001
+epoch: 5, Loss: 0.4500219374895096, LR: 0.001
+epoch: 5, Loss: 0.4562815617431294, LR: 0.001
+epoch: 5, Loss: 0.4545663222670555, LR: 0.001
+epoch: 5, Loss: 0.45056973512356097, LR: 0.001
+epoch: 5, Loss: 0.44744335753577097, LR: 0.001
+epoch: 5, Loss: 0.44731688499450684, LR: 0.001
+epoch: 5, Loss: 0.4599538631737232, LR: 0.001
+epoch: 5, Loss: 0.4598179810187396, LR: 0.001
+epoch: 5, Loss: 0.4581013023853302, LR: 0.001
+epoch: 5, Loss: 0.45014278982814987, LR: 0.001
+epoch: 6, Loss: 0.567410409450531, LR: 0.001
+epoch: 6, Loss: 0.472466304898262, LR: 0.001
+epoch: 6, Loss: 0.4610977570215861, LR: 0.001
+epoch: 6, Loss: 0.49518899619579315, LR: 0.001
+epoch: 6, Loss: 0.5144559144973755, LR: 0.001
+epoch: 6, Loss: 0.49987249076366425, LR: 0.001
+epoch: 6, Loss: 0.5126256900174277, LR: 0.001
+epoch: 6, Loss: 0.493196077644825, LR: 0.001
+epoch: 6, Loss: 0.4898795055018531, LR: 0.001
+epoch: 6, Loss: 0.48946517109870913, LR: 0.001
+epoch: 6, Loss: 0.48415977304632013, LR: 0.001
+epoch: 6, Loss: 0.46672842154900235, LR: 0.001
+epoch: 6, Loss: 0.4640368612912985, LR: 0.001
+epoch: 6, Loss: 0.47053055465221405, LR: 0.001
+epoch: 6, Loss: 0.4713965753714244, LR: 0.001
+epoch: 6, Loss: 0.466290857642889, LR: 0.001
+epoch: 6, Loss: 0.4613702630295473, LR: 0.001
+epoch: 6, Loss: 0.4516044838560952, LR: 0.001
+epoch: 6, Loss: 0.4580642659413187, LR: 0.001
+epoch: 7, Loss: 0.43604445457458496, LR: 0.001
+epoch: 7, Loss: 0.42987990379333496, LR: 0.001
+epoch: 7, Loss: 0.47049520413080853, LR: 0.001
+epoch: 7, Loss: 0.4810474365949631, LR: 0.001
+epoch: 7, Loss: 0.4485571622848511, LR: 0.001
+epoch: 7, Loss: 0.47008363405863446, LR: 0.001
+epoch: 7, Loss: 0.46633140104157583, LR: 0.001
+epoch: 7, Loss: 0.4839109145104885, LR: 0.001
+epoch: 7, Loss: 0.4684869945049286, LR: 0.001
+epoch: 7, Loss: 0.46582080125808717, LR: 0.001
+epoch: 7, Loss: 0.46372078223661944, LR: 0.001
+epoch: 7, Loss: 0.4690479288498561, LR: 0.001
+epoch: 7, Loss: 0.4606359280072726, LR: 0.001
+epoch: 7, Loss: 0.4631208585841315, LR: 0.001
+epoch: 7, Loss: 0.45583219329516095, LR: 0.001
+epoch: 7, Loss: 0.4542867634445429, LR: 0.001
+epoch: 7, Loss: 0.4454265131669886, LR: 0.001
+epoch: 7, Loss: 0.4501567549175686, LR: 0.001
+epoch: 7, Loss: 0.4498530924320221, LR: 0.001
+epoch: 8, Loss: 0.5314722657203674, LR: 0.001
+epoch: 8, Loss: 0.5476289689540863, LR: 0.001
+epoch: 8, Loss: 0.5516643325487772, LR: 0.001
+epoch: 8, Loss: 0.5085814148187637, LR: 0.001
+epoch: 8, Loss: 0.46254344582557677, LR: 0.001
+epoch: 8, Loss: 0.4405839840571086, LR: 0.001
+epoch: 8, Loss: 0.4419536590576172, LR: 0.001
+epoch: 8, Loss: 0.443422045558691, LR: 0.001
+epoch: 8, Loss: 0.4632563822799259, LR: 0.001
+epoch: 8, Loss: 0.4566084504127502, LR: 0.001
+epoch: 8, Loss: 0.4607374505563216, LR: 0.001
+epoch: 8, Loss: 0.4532114739219348, LR: 0.001
+epoch: 8, Loss: 0.4534852046232957, LR: 0.001
+epoch: 8, Loss: 0.45080920841012684, LR: 0.001
+epoch: 8, Loss: 0.45080577532450355, LR: 0.001
+epoch: 8, Loss: 0.4425730314105749, LR: 0.001
+epoch: 8, Loss: 0.4487214807201834, LR: 0.001
+epoch: 8, Loss: 0.44881510568989647, LR: 0.001
+epoch: 8, Loss: 0.4406745433807373, LR: 0.001
+epoch: 9, Loss: 0.39219173789024353, LR: 0.001
+epoch: 9, Loss: 0.40610553324222565, LR: 0.001
+epoch: 9, Loss: 0.36652101079622906, LR: 0.001
+epoch: 9, Loss: 0.38421691209077835, LR: 0.001
+epoch: 9, Loss: 0.3977371871471405, LR: 0.001
+epoch: 9, Loss: 0.4187635729710261, LR: 0.001
+epoch: 9, Loss: 0.43623912760189604, LR: 0.001
+epoch: 9, Loss: 0.43760252371430397, LR: 0.001
+epoch: 9, Loss: 0.4392225378089481, LR: 0.001
+epoch: 9, Loss: 0.427370211482048, LR: 0.001
+epoch: 9, Loss: 0.4303076754916798, LR: 0.001
+epoch: 9, Loss: 0.44682403405507404, LR: 0.001
+epoch: 9, Loss: 0.43581666396214414, LR: 0.001
+epoch: 9, Loss: 0.43997907851423534, LR: 0.001
+epoch: 9, Loss: 0.4426505128542582, LR: 0.001
+epoch: 9, Loss: 0.44457496143877506, LR: 0.001
+epoch: 9, Loss: 0.44120317697525024, LR: 0.001
+epoch: 9, Loss: 0.44245700041453045, LR: 0.001
+epoch: 9, Loss: 0.4475067006914239, LR: 0.001
+test loss file
+0: Loss: 0.03872 and lr: 0.00100.... Network output: 0.96202 and actual label: 1.0, total_loss: 0.038723886013031006 
+1: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.8234942853450775 
+2: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 1.0850844184557598 
+3: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 1.2158794850111008 
+4: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 1.2943565249443054 
+5: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 1.1158699467778206 
+6: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.98837953380176 
+7: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.8927617240697145 
+8: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.8183923165003458 
+9: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.7588967904448509 
+10: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.7102186327630823 
+11: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.6696535013616085 
+12: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.6353291594065152 
+13: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.6059082948735782 
+14: Loss: 0.23637 and lr: 0.00100.... Network output: 0.78949 and actual label: 1.0, total_loss: 0.5812723735968272 
+15: Loss: 0.13779 and lr: 0.00100.... Network output: 0.87128 and actual label: 1.0, total_loss: 0.5535546811297536 
+16: Loss: 0.18485 and lr: 0.00100.... Network output: 0.83123 and actual label: 1.0, total_loss: 0.531866177039988 
+17: Loss: 0.23132 and lr: 0.00100.... Network output: 0.79348 and actual label: 1.0, total_loss: 0.5151693837510215 
+18: Loss: 0.23554 and lr: 0.00100.... Network output: 0.79014 and actual label: 1.0, total_loss: 0.5004520518215079 
+19: Loss: 0.26508 and lr: 0.00100.... Network output: 0.76715 and actual label: 1.0, total_loss: 0.4886833019554615 
+20: Loss: 0.26881 and lr: 0.00100.... Network output: 0.76429 and actual label: 1.0, total_loss: 0.4782129433893022 
+21: Loss: 0.26605 and lr: 0.00100.... Network output: 0.76640 and actual label: 1.0, total_loss: 0.46856936338272964 
+22: Loss: 0.06062 and lr: 0.00100.... Network output: 0.94118 and actual label: 1.0, total_loss: 0.45083252324358275 
+23: Loss: 0.05846 and lr: 0.00100.... Network output: 0.94321 and actual label: 1.0, total_loss: 0.43448377198850113 
+24: Loss: 0.09543 and lr: 0.00100.... Network output: 0.90898 and actual label: 1.0, total_loss: 0.42092181399464607 
+25: Loss: 0.26294 and lr: 0.00100.... Network output: 0.76879 and actual label: 1.0, total_loss: 0.4148454111642562 
+26: Loss: 0.26290 and lr: 0.00100.... Network output: 0.76882 and actual label: 1.0, total_loss: 0.4092178638610575 
+27: Loss: 0.26474 and lr: 0.00100.... Network output: 0.76740 and actual label: 1.0, total_loss: 0.40405810052262886 
+28: Loss: 0.25809 and lr: 0.00100.... Network output: 0.77253 and actual label: 1.0, total_loss: 0.39902465983197605 
+29: Loss: 0.23127 and lr: 0.00100.... Network output: 0.79353 and actual label: 1.0, total_loss: 0.3934328343719244 
+30: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3879490995839719 
+31: Loss: 0.04499 and lr: 0.00100.... Network output: 0.95600 and actual label: 1.0, total_loss: 0.37723176332656294 
+32: Loss: 0.04375 and lr: 0.00100.... Network output: 0.95719 and actual label: 1.0, total_loss: 0.3671262860298157 
+33: Loss: 0.04411 and lr: 0.00100.... Network output: 0.95685 and actual label: 1.0, total_loss: 0.35762570425868034 
+34: Loss: 0.06647 and lr: 0.00100.... Network output: 0.93569 and actual label: 1.0, total_loss: 0.34930690037352696 
+35: Loss: 0.10219 and lr: 0.00100.... Network output: 0.90286 and actual label: 1.0, total_loss: 0.34244255700873005 
+36: Loss: 0.06399 and lr: 0.00100.... Network output: 0.93802 and actual label: 1.0, total_loss: 0.334916679843052 
+37: Loss: 0.07081 and lr: 0.00100.... Network output: 0.93164 and actual label: 1.0, total_loss: 0.3279665592861803 
+38: Loss: 0.09472 and lr: 0.00100.... Network output: 0.90963 and actual label: 1.0, total_loss: 0.32198590460496074 
+39: Loss: 0.05997 and lr: 0.00100.... Network output: 0.94179 and actual label: 1.0, total_loss: 0.31543557057157157 
+40: Loss: 0.09633 and lr: 0.00100.... Network output: 0.90816 and actual label: 1.0, total_loss: 0.3100915693836968 
+41: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3080283666827849 
+42: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3060611268981945 
+43: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3041833071038127 
+44: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.302388945966959 
+45: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.30067260053170763 
+46: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.3284937087050144 
+47: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.35515560403776664 
+48: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.3807292587446923 
+49: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3775834146887064 
+50: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.37456093706628857 
+51: Loss: 0.19307 and lr: 0.00100.... Network output: 0.82443 and actual label: 1.0, total_loss: 0.3710706332125343 
+52: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3682850940188147 
+53: Loss: 0.15625 and lr: 0.00100.... Network output: 0.85535 and actual label: 1.0, total_loss: 0.3643584475611095 
+54: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3617962404408238 
+55: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3593255407176912 
+56: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3569415322129141 
+57: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.35463973089795686 
+58: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.35241595674621856 
+59: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3502663083995382 
+60: Loss: 0.21128 and lr: 0.00100.... Network output: 0.80955 and actual label: 1.0, total_loss: 0.34798786221224753 
+61: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.36831490773587455 
+62: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.3879966502270055 
+63: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.4070633382652886 
+64: Loss: 1.69126 and lr: 0.00100.... Network output: 0.81571 and actual label: 0.0, total_loss: 0.4268202335215532 
+65: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.4447209070239103 
+66: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.46208723206351054 
+67: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.4789427828372401 
+68: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.47523980128808296 
+69: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4716426192117589 
+70: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4681467662080073 
+71: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4647480202321377 
+72: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.46144239058437414 
+73: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.458226102278442 
+74: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.45509558166066805 
+75: Loss: 0.23348 and lr: 0.00100.... Network output: 0.79177 and actual label: 1.0, total_loss: 0.45217957274105985 
+76: Loss: 0.23115 and lr: 0.00100.... Network output: 0.79362 and actual label: 1.0, total_loss: 0.44930912191411115 
+77: Loss: 0.23398 and lr: 0.00100.... Network output: 0.79137 and actual label: 1.0, total_loss: 0.44654853532138544 
+78: Loss: 0.05105 and lr: 0.00100.... Network output: 0.95023 and actual label: 1.0, total_loss: 0.4415422553974616 
+79: Loss: 0.04477 and lr: 0.00100.... Network output: 0.95622 and actual label: 1.0, total_loss: 0.43658259976655245 
+80: Loss: 0.04189 and lr: 0.00100.... Network output: 0.95898 and actual label: 1.0, total_loss: 0.4317098224052676 
+81: Loss: 0.07242 and lr: 0.00100.... Network output: 0.93014 and actual label: 1.0, total_loss: 0.42732824539629427 
+82: Loss: 2.38053 and lr: 0.00100.... Network output: 0.90750 and actual label: 0.0, total_loss: 0.45086079521710615 
+83: Loss: 1.98282 and lr: 0.00100.... Network output: 0.86232 and actual label: 0.0, total_loss: 0.4690984335861036 
+84: Loss: 1.61753 and lr: 0.00100.... Network output: 0.80161 and actual label: 0.0, total_loss: 0.4826093860408839 
+85: Loss: 1.55439 and lr: 0.00100.... Network output: 0.78868 and actual label: 0.0, total_loss: 0.49507199513704275 
+86: Loss: 1.50901 and lr: 0.00100.... Network output: 0.77887 and actual label: 0.0, total_loss: 0.5067264750257305 
+87: Loss: 0.24065 and lr: 0.00100.... Network output: 0.78612 and actual label: 1.0, total_loss: 0.5037028951231729 
+88: Loss: 0.24538 and lr: 0.00100.... Network output: 0.78241 and actual label: 1.0, total_loss: 0.5008004191383887 
+89: Loss: 0.25078 and lr: 0.00100.... Network output: 0.77819 and actual label: 1.0, total_loss: 0.49802242293953897 
+90: Loss: 0.24814 and lr: 0.00100.... Network output: 0.78025 and actual label: 1.0, total_loss: 0.49527649900742937 
+91: Loss: 0.24329 and lr: 0.00100.... Network output: 0.78405 and actual label: 1.0, total_loss: 0.49253746227401757 
+92: Loss: 0.23668 and lr: 0.00100.... Network output: 0.78924 and actual label: 1.0, total_loss: 0.48978629668233215 
+93: Loss: 0.25168 and lr: 0.00100.... Network output: 0.77750 and actual label: 1.0, total_loss: 0.4872532216633888 
+94: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4844762093926731 
+95: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.49618233934355277 
+96: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.5076471057902906 
+97: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.5188778974115849 
+98: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.5298818043536611 
+99: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.5268173568695783 
+100: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.5238135915138934 
+101: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.5208687235181239 
+102: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.5179810374251848 
+103: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.5151488837571099 
+104: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.5123706758731887 
+105: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.5096448870059455 
+106: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.5069700474633234 
+107: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.5043447419863056 
+108: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.5017676072519853 
+109: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.49923732951283456 
+110: Loss: 0.17936 and lr: 0.00100.... Network output: 0.83581 and actual label: 1.0, total_loss: 0.49635554037921065 
+111: Loss: 0.04141 and lr: 0.00100.... Network output: 0.95944 and actual label: 1.0, total_loss: 0.4922934879016663 
+112: Loss: 0.03988 and lr: 0.00100.... Network output: 0.96090 and actual label: 1.0, total_loss: 0.48828983386005975 
+113: Loss: 0.04184 and lr: 0.00100.... Network output: 0.95902 and actual label: 1.0, total_loss: 0.48437361092421044 
+114: Loss: 0.04624 and lr: 0.00100.... Network output: 0.95482 and actual label: 1.0, total_loss: 0.48056371970021206 
+115: Loss: 0.04540 and lr: 0.00100.... Network output: 0.95562 and actual label: 1.0, total_loss: 0.47681230412603454 
+116: Loss: 0.04373 and lr: 0.00100.... Network output: 0.95721 and actual label: 1.0, total_loss: 0.4731107685301039 
+117: Loss: 0.06395 and lr: 0.00100.... Network output: 0.93805 and actual label: 1.0, total_loss: 0.46964330522943354 
+118: Loss: 0.04964 and lr: 0.00100.... Network output: 0.95157 and actual label: 1.0, total_loss: 0.4661138542935628 
+119: Loss: 0.04649 and lr: 0.00100.... Network output: 0.95457 and actual label: 1.0, total_loss: 0.4626170289081832 
+120: Loss: 0.16377 and lr: 0.00100.... Network output: 0.84893 and actual label: 1.0, total_loss: 0.46014724133059015 
+121: Loss: 0.21979 and lr: 0.00100.... Network output: 0.80268 and actual label: 1.0, total_loss: 0.4581771240432243 
+122: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4562686682050306 
+123: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.45439099391261417 
+124: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.45254336240887644 
+125: Loss: 0.22204 and lr: 0.00100.... Network output: 0.80088 and actual label: 1.0, total_loss: 0.45071399735198137 
+126: Loss: 0.07403 and lr: 0.00100.... Network output: 0.92864 and actual label: 1.0, total_loss: 0.44774801721136404 
+127: Loss: 0.05205 and lr: 0.00100.... Network output: 0.94928 and actual label: 1.0, total_loss: 0.44465660612331703 
+128: Loss: 0.05346 and lr: 0.00100.... Network output: 0.94794 and actual label: 1.0, total_loss: 0.4416240780621536 
+129: Loss: 0.23687 and lr: 0.00100.... Network output: 0.78909 and actual label: 1.0, total_loss: 0.4400490491436078 
+130: Loss: 0.26269 and lr: 0.00100.... Network output: 0.76898 and actual label: 1.0, total_loss: 0.4386951624209644 
+131: Loss: 0.26187 and lr: 0.00100.... Network output: 0.76961 and actual label: 1.0, total_loss: 0.4373555807678988 
+132: Loss: 0.26144 and lr: 0.00100.... Network output: 0.76994 and actual label: 1.0, total_loss: 0.43603288735214035 
+133: Loss: 0.18025 and lr: 0.00100.... Network output: 0.83506 and actual label: 1.0, total_loss: 0.43412405519343134 
+134: Loss: 0.07351 and lr: 0.00100.... Network output: 0.92912 and actual label: 1.0, total_loss: 0.4314528595518183 
+135: Loss: 0.13085 and lr: 0.00100.... Network output: 0.87735 and actual label: 1.0, total_loss: 0.4292425131973098 
+136: Loss: 0.26395 and lr: 0.00100.... Network output: 0.76801 and actual label: 1.0, total_loss: 0.42803599321059066 
+137: Loss: 0.26581 and lr: 0.00100.... Network output: 0.76659 and actual label: 1.0, total_loss: 0.4268604082905728 
+138: Loss: 0.26450 and lr: 0.00100.... Network output: 0.76759 and actual label: 1.0, total_loss: 0.42569236039257735 
+139: Loss: 0.26314 and lr: 0.00100.... Network output: 0.76863 and actual label: 1.0, total_loss: 0.424531281207289 
+140: Loss: 0.24968 and lr: 0.00100.... Network output: 0.77905 and actual label: 1.0, total_loss: 0.423291192832568 
+141: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4218837693333626 
+142: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4204960300789013 
+143: Loss: 0.04519 and lr: 0.00100.... Network output: 0.95582 and actual label: 1.0, total_loss: 0.4178897191822115 
+144: Loss: 0.04044 and lr: 0.00100.... Network output: 0.96037 and actual label: 1.0, total_loss: 0.41528661130317324 
+145: Loss: 0.15083 and lr: 0.00100.... Network output: 0.85999 and actual label: 1.0, total_loss: 0.4134752613887803 
+146: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4121824844810022 
+147: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4109071775314373 
+148: Loss: 0.15676 and lr: 0.00100.... Network output: 0.85491 and actual label: 1.0, total_loss: 0.4092015223265094 
+149: Loss: 0.06173 and lr: 0.00100.... Network output: 0.94014 and actual label: 1.0, total_loss: 0.40688503089050454 
+150: Loss: 0.04135 and lr: 0.00100.... Network output: 0.95949 and actual label: 1.0, total_loss: 0.40446427188172246 
+151: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.40327330335582556 
+152: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4020979030459535 
+153: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.40093776767517064 
+154: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3997926017930431 
+155: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3986621175247889 
+156: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.39754603433001573 
+157: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3964440787706194 
+158: Loss: 0.04641 and lr: 0.00100.... Network output: 0.95465 and actual label: 1.0, total_loss: 0.3942426303694458 
+159: Loss: 0.04394 and lr: 0.00100.... Network output: 0.95701 and actual label: 1.0, total_loss: 0.3920532208168879 
+160: Loss: 0.04880 and lr: 0.00100.... Network output: 0.95237 and actual label: 1.0, total_loss: 0.38992124141095585 
+161: Loss: 0.06772 and lr: 0.00100.... Network output: 0.93452 and actual label: 1.0, total_loss: 0.38793233025497126 
+162: Loss: 0.07478 and lr: 0.00100.... Network output: 0.92795 and actual label: 1.0, total_loss: 0.38601116075014774 
+163: Loss: 0.07535 and lr: 0.00100.... Network output: 0.92742 and actual label: 1.0, total_loss: 0.384116892884599 
+164: Loss: 0.07317 and lr: 0.00100.... Network output: 0.92944 and actual label: 1.0, total_loss: 0.3822323783554814 
+165: Loss: 0.08547 and lr: 0.00100.... Network output: 0.91808 and actual label: 1.0, total_loss: 0.3804446761552469 
+166: Loss: 0.05966 and lr: 0.00100.... Network output: 0.94208 and actual label: 1.0, total_loss: 0.3785238383549773 
+167: Loss: 0.15042 and lr: 0.00100.... Network output: 0.86034 and actual label: 1.0, total_loss: 0.37716609370406895 
+168: Loss: 0.22564 and lr: 0.00100.... Network output: 0.79800 and actual label: 1.0, total_loss: 0.37626951331129443 
+169: Loss: 0.23400 and lr: 0.00100.... Network output: 0.79136 and actual label: 1.0, total_loss: 0.37543261925525523 
+170: Loss: 0.23767 and lr: 0.00100.... Network output: 0.78846 and actual label: 1.0, total_loss: 0.3746270060495675 
+171: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3737479947117526 
+172: Loss: 0.08776 and lr: 0.00100.... Network output: 0.91598 and actual label: 1.0, total_loss: 0.37209490189231886 
+173: Loss: 0.12864 and lr: 0.00100.... Network output: 0.87929 and actual label: 1.0, total_loss: 0.3706957536653198 
+174: Loss: 0.05359 and lr: 0.00100.... Network output: 0.94782 and actual label: 1.0, total_loss: 0.368883743924754 
+175: Loss: 0.06678 and lr: 0.00100.... Network output: 0.93540 and actual label: 1.0, total_loss: 0.3671672343361107 
+176: Loss: 0.15828 and lr: 0.00100.... Network output: 0.85361 and actual label: 1.0, total_loss: 0.3659870900676749 
+177: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3651862471793475 
+178: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3643943522562528 
+179: Loss: 0.05932 and lr: 0.00100.... Network output: 0.94240 and actual label: 1.0, total_loss: 0.3626995149585936 
+180: Loss: 0.06096 and lr: 0.00100.... Network output: 0.94086 and actual label: 1.0, total_loss: 0.3610324292798727 
+181: Loss: 0.05584 and lr: 0.00100.... Network output: 0.94569 and actual label: 1.0, total_loss: 0.3593555223810804 
+182: Loss: 0.22333 and lr: 0.00100.... Network output: 0.79985 and actual label: 1.0, total_loss: 0.35861222535534637 
+183: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.35787757769550965 
+184: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.35715087217253605 
+185: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3564319806874439 
+186: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3557207778813367 
+187: Loss: 0.04287 and lr: 0.00100.... Network output: 0.95803 and actual label: 1.0, total_loss: 0.3540566929398065 
+188: Loss: 0.03879 and lr: 0.00100.... Network output: 0.96196 and actual label: 1.0, total_loss: 0.3523886003112667 
+189: Loss: 0.03546 and lr: 0.00100.... Network output: 0.96517 and actual label: 1.0, total_loss: 0.3507205321012359 
+190: Loss: 0.04812 and lr: 0.00100.... Network output: 0.95302 and actual label: 1.0, total_loss: 0.349136225684151 
+191: Loss: 0.07451 and lr: 0.00100.... Network output: 0.92820 and actual label: 1.0, total_loss: 0.3477058812665443 
+192: Loss: 0.05176 and lr: 0.00100.... Network output: 0.94956 and actual label: 1.0, total_loss: 0.3461724707731311 
+193: Loss: 0.14413 and lr: 0.00100.... Network output: 0.86578 and actual label: 1.0, total_loss: 0.34513101231345195 
+194: Loss: 0.05328 and lr: 0.00100.... Network output: 0.94811 and actual label: 1.0, total_loss: 0.3436343503304017 
+195: Loss: 0.04395 and lr: 0.00100.... Network output: 0.95701 and actual label: 1.0, total_loss: 0.3421053287136007 
+196: Loss: 0.21231 and lr: 0.00100.... Network output: 0.80871 and actual label: 1.0, total_loss: 0.34144647795763716 
+197: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3408504707757572 
+198: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3402604536158056 
+199: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.33967633662745356 
+200: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.33909803174843833 
+201: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3385254526603045 
+202: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.33795851474545274 
+203: Loss: 0.23074 and lr: 0.00100.... Network output: 0.79394 and actual label: 1.0, total_loss: 0.33743293939487023 
+204: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.34363211864014953 
+205: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.34977111167916397 
+206: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.3558507907757725 
+207: Loss: 1.62494 and lr: 0.00100.... Network output: 0.80308 and actual label: 0.0, total_loss: 0.3619522008722505 
+208: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.3679154184981111 
+209: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.373821843575154 
+210: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.37310911946316466 
+211: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.37240311916355257 
+212: Loss: 0.23245 and lr: 0.00100.... Network output: 0.79259 and actual label: 1.0, total_loss: 0.3717460583877955 
+213: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.37105302566610204 
+214: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3703664397604244 
+215: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.36968621113165107 
+216: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.36901225189116144 
+217: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.36834447576296986 
+218: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3676827980469079 
+219: Loss: 0.04926 and lr: 0.00100.... Network output: 0.95193 and actual label: 1.0, total_loss: 0.36623542493378575 
+220: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.37185546683307685 
+221: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.37742487772426625 
+222: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.3829443387419921 
+223: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.38841451885777395 
+224: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.38768128568927446 
+225: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3869545413098768 
+226: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3862341999646588 
+227: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3855201774031708 
+228: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.38481239084658664 
+229: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3841107589557119 
+230: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3834152017998231 
+231: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3827256408263126 
+232: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.38204199883111556 
+233: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.38136419992989457 
+234: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.3865850530564785 
+235: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.39176166166504056 
+236: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.3968945858127709 
+237: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.4019843761441337 
+238: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.4070315740877864 
+239: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.40626659692885975 
+240: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4055079681280985 
+241: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.40475560898684765 
+242: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4040094421019034 
+243: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4032693913389669 
+244: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.40253538180674825 
+245: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4018073398317021 
+246: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.40108519293337697 
+247: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.40036886980036096 
+248: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3996583002668069 
+249: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3989534152895212 
+250: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.3982541469256004 
+251: Loss: 0.21001 and lr: 0.00100.... Network output: 0.81058 and actual label: 1.0, total_loss: 0.3975071336571423 
+252: Loss: 0.18650 and lr: 0.00100.... Network output: 0.82986 and actual label: 1.0, total_loss: 0.3966731277879755 
+253: Loss: 0.05167 and lr: 0.00100.... Network output: 0.94965 and actual label: 1.0, total_loss: 0.395314835422621 
+254: Loss: 0.03864 and lr: 0.00100.... Network output: 0.96210 and actual label: 1.0, total_loss: 0.39391611707853336 
+255: Loss: 0.07948 and lr: 0.00100.... Network output: 0.92359 and actual label: 1.0, total_loss: 0.39268786199681927 
+256: Loss: 0.19329 and lr: 0.00100.... Network output: 0.82424 and actual label: 1.0, total_loss: 0.39191201266901504 
+257: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.3966265579093565 
+258: Loss: 1.61281 and lr: 0.00100.... Network output: 0.80067 and actual label: 0.0, total_loss: 0.4013222358890712 
+259: Loss: 1.74760 and lr: 0.00100.... Network output: 0.82581 and actual label: 0.0, total_loss: 0.4065002298842256 
+260: Loss: 1.67268 and lr: 0.00100.... Network output: 0.81226 and actual label: 0.0, total_loss: 0.41135148888175516 
+261: Loss: 0.21562 and lr: 0.00100.... Network output: 0.80604 and actual label: 1.0, total_loss: 0.41060442473199077 
+262: Loss: 0.21381 and lr: 0.00100.... Network output: 0.80750 and actual label: 1.0, total_loss: 0.4098561617613065 
+263: Loss: 0.21872 and lr: 0.00100.... Network output: 0.80354 and actual label: 1.0, total_loss: 0.40913217995936674 
+264: Loss: 0.20824 and lr: 0.00100.... Network output: 0.81201 and actual label: 1.0, total_loss: 0.40837409126589885 
+265: Loss: 0.19237 and lr: 0.00100.... Network output: 0.82500 and actual label: 1.0, total_loss: 0.4075620596934306 
+266: Loss: 0.20633 and lr: 0.00100.... Network output: 0.81357 and actual label: 1.0, total_loss: 0.40680836923839003 
+267: Loss: 0.20172 and lr: 0.00100.... Network output: 0.81732 and actual label: 1.0, total_loss: 0.4060431210212965 
+268: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4053642880656241 
+269: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.40981947471974073 
+270: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.41424178176755394 
+271: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.4186315718517803 
+272: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.417916573625017 
+273: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.41720679436341257 
+274: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4165021771328016 
+275: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.41580266582415154 
+276: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4151082051386687 
+277: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.41441874057322525 
+278: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4137342184061004 
+279: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4130545856830265 
+280: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.41237979020353316 
+281: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4117097805075823 
+282: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.41104450586248625 
+283: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4103839162501021 
+284: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.4145870066656355 
+285: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.4187607048405009 
+286: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.42290531801066333 
+287: Loss: 1.66690 and lr: 0.00100.... Network output: 0.81117 and actual label: 0.0, total_loss: 0.42722475323049974 
+288: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.4313113965919067 
+289: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.43059458852071186 
+290: Loss: 0.22935 and lr: 0.00100.... Network output: 0.79505 and actual label: 1.0, total_loss: 0.42990302257367835 
+291: Loss: 0.21238 and lr: 0.00100.... Network output: 0.80866 and actual label: 1.0, total_loss: 0.4291580826273724 
+292: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4284559630823827 
+293: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4277586198608283 
+294: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.42706600438992853 
+295: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.42637806875329165 
+296: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.42569476567986436 
+297: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.42501604853310443 
+298: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4243418713003696 
+299: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.4282882806782921 
+300: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.43220846806699253 
+301: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.43610269394980755 
+302: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4354008271577138 
+303: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.43470357791030484 
+304: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4340109007891084 
+305: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.43332275096935774 
+306: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.43263908421032204 
+307: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4319598568458255 
+308: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.43128502577495037 
+309: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4306145484529195 
+310: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4299483828821558 
+311: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.42928648760351235 
+312: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4286288216876717 
+313: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.42797534472670906 
+314: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.43172229501226594 
+315: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.43544553042259776 
+316: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.43914527538870035 
+317: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.44282175151853814 
+318: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.44213402520012707 
+319: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.44145059717120605 
+320: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4407714272608452 
+321: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4400964757971327 
+322: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.43942570359944927 
+323: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.43875907197088737 
+324: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.43809654269080894 
+325: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4374380780075408 
+326: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.436783640631204 
+327: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4361331937266741 
+328: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4354867009066702 
+329: Loss: 0.04709 and lr: 0.00100.... Network output: 0.95400 and actual label: 1.0, total_loss: 0.4343097522290367 
+330: Loss: 0.04614 and lr: 0.00100.... Network output: 0.95491 and actual label: 1.0, total_loss: 0.43313703925723035 
+331: Loss: 0.05277 and lr: 0.00100.... Network output: 0.94860 and actual label: 1.0, total_loss: 0.4319913646722414 
+332: Loss: 0.05301 and lr: 0.00100.... Network output: 0.94837 and actual label: 1.0, total_loss: 0.4308532728469587 
+333: Loss: 0.21473 and lr: 0.00100.... Network output: 0.80676 and actual label: 1.0, total_loss: 0.43020620363245826 
+334: Loss: 0.22184 and lr: 0.00100.... Network output: 0.80104 and actual label: 1.0, total_loss: 0.4295842263347177 
+335: Loss: 0.23453 and lr: 0.00100.... Network output: 0.79094 and actual label: 1.0, total_loss: 0.42900371792105335 
+336: Loss: 0.22723 and lr: 0.00100.... Network output: 0.79674 and actual label: 1.0, total_loss: 0.42840497829130564 
+337: Loss: 0.08244 and lr: 0.00100.... Network output: 0.92087 and actual label: 1.0, total_loss: 0.4273814052762188 
+338: Loss: 0.05001 and lr: 0.00100.... Network output: 0.95122 and actual label: 1.0, total_loss: 0.426268205486216 
+339: Loss: 0.17690 and lr: 0.00100.... Network output: 0.83787 and actual label: 1.0, total_loss: 0.4255347554736278 
+340: Loss: 0.20792 and lr: 0.00100.... Network output: 0.81227 and actual label: 1.0, total_loss: 0.4248966022757841 
+341: Loss: 0.22758 and lr: 0.00100.... Network output: 0.79646 and actual label: 1.0, total_loss: 0.42431964733970096 
+342: Loss: 0.22632 and lr: 0.00100.... Network output: 0.79746 and actual label: 1.0, total_loss: 0.4237423835012725 
+343: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.423160100572331 
+344: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.42258119319660076 
+345: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.42200563210627934 
+346: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.4254242460906334 
+347: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.42882321286818076 
+348: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.43220270132608607 
+349: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.43556287842137476 
+350: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.43890390920842814 
+351: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4382917874662036 
+352: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.43768313383583307 
+353: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.437077918926538 
+354: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.43647611367870387 
+355: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.43587768935922827 
+356: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.43528261755694864 
+357: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4346908701781454 
+358: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.434102419442121 
+359: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.43351723787685237 
+360: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.43293529831471533 
+361: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.43235657388828075 
+362: Loss: 0.07109 and lr: 0.00100.... Network output: 0.93138 and actual label: 1.0, total_loss: 0.43136134378345214 
+363: Loss: 0.04015 and lr: 0.00100.... Network output: 0.96065 and actual label: 1.0, total_loss: 0.430286574341193 
+364: Loss: 0.04093 and lr: 0.00100.... Network output: 0.95990 and actual label: 1.0, total_loss: 0.42921984019140674 
+365: Loss: 0.03839 and lr: 0.00100.... Network output: 0.96234 and actual label: 1.0, total_loss: 0.42815199030227347 
+366: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.42759418394162807 
+367: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.42703940913729044 
+368: Loss: 0.12853 and lr: 0.00100.... Network output: 0.87938 and actual label: 1.0, total_loss: 0.4262304476444637 
+369: Loss: 0.20309 and lr: 0.00100.... Network output: 0.81621 and actual label: 1.0, total_loss: 0.42562736333222 
+370: Loss: 0.21444 and lr: 0.00100.... Network output: 0.80699 and actual label: 1.0, total_loss: 0.4250581335587643 
+371: Loss: 0.22215 and lr: 0.00100.... Network output: 0.80079 and actual label: 1.0, total_loss: 0.4245126882307632 
+372: Loss: 0.22653 and lr: 0.00100.... Network output: 0.79730 and actual label: 1.0, total_loss: 0.4239818959948844 
+373: Loss: 0.21969 and lr: 0.00100.... Network output: 0.80277 and actual label: 1.0, total_loss: 0.42343566116483455 
+374: Loss: 0.20851 and lr: 0.00100.... Network output: 0.81180 and actual label: 1.0, total_loss: 0.4228625166813533 
+375: Loss: 0.21895 and lr: 0.00100.... Network output: 0.80336 and actual label: 1.0, total_loss: 0.42232019196640935 
+376: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.42179265049155257 
+377: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.42493146539680543 
+378: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.42805371663501207 
+379: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.43115953497196496 
+380: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.43424904980058743 
+381: Loss: 1.60826 and lr: 0.00100.... Network output: 0.79977 and actual label: 0.0, total_loss: 0.437322389158903 
+382: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.436763941813698 
+383: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.43620840304841596 
+384: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.43565575019879776 
+385: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.43510596083544695 
+386: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.43455901276079567 
+387: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4340148840061168 
+388: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4334735528285828 
+389: Loss: 0.22344 and lr: 0.00100.... Network output: 0.79977 and actual label: 1.0, total_loss: 0.4329349977083695 
+----------------------------------------------------------------------------------------------------
+Network information
+learning rate: 0.001, batch size: 50, saved model name: dummy, optimizer : Adam, learning steps: [10,20,25] 
+----------------------------------------------------------------------------------------------------
+Confusion matrix for test data 
+TP: 323, TN: 0, FP: 67, FN: 0 
+epoch: 10, Loss: 0.3574904501438141, LR: 0.001
+epoch: 10, Loss: 0.4921722561120987, LR: 0.001
+epoch: 10, Loss: 0.4474041958649953, LR: 0.001
+epoch: 10, Loss: 0.4715575948357582, LR: 0.001
+epoch: 10, Loss: 0.4879456341266632, LR: 0.001
+epoch: 10, Loss: 0.4716218461592992, LR: 0.001
+epoch: 10, Loss: 0.4638091112886156, LR: 0.001
+epoch: 10, Loss: 0.4408768564462662, LR: 0.001
+epoch: 10, Loss: 0.43264785077836776, LR: 0.001
+epoch: 10, Loss: 0.4261837512254715, LR: 0.001
+epoch: 10, Loss: 0.437955685637214, LR: 0.001
+epoch: 10, Loss: 0.446357898414135, LR: 0.001
+epoch: 10, Loss: 0.4416527518859276, LR: 0.001
+epoch: 10, Loss: 0.44548722888742176, LR: 0.001
+epoch: 10, Loss: 0.43129895329475404, LR: 0.001
+epoch: 10, Loss: 0.4361585136502981, LR: 0.001
+epoch: 10, Loss: 0.44423700606121735, LR: 0.001
+epoch: 10, Loss: 0.43818749321831596, LR: 0.001
+epoch: 10, Loss: 0.44547492265701294, LR: 0.001
+epoch: 11, Loss: 0.5055503249168396, LR: 0.0001
+epoch: 11, Loss: 0.4687751531600952, LR: 0.0001
+epoch: 11, Loss: 0.4245098928610484, LR: 0.0001
+epoch: 11, Loss: 0.4217589572072029, LR: 0.0001
+epoch: 11, Loss: 0.41364569664001466, LR: 0.0001
+epoch: 11, Loss: 0.40011708935101825, LR: 0.0001
+epoch: 11, Loss: 0.42041265964508057, LR: 0.0001
+epoch: 11, Loss: 0.43412865698337555, LR: 0.0001
+epoch: 11, Loss: 0.43741310636202496, LR: 0.0001
+epoch: 11, Loss: 0.4333077669143677, LR: 0.0001
+epoch: 11, Loss: 0.4321278252384879, LR: 0.0001
+epoch: 11, Loss: 0.4305695394674937, LR: 0.0001
+epoch: 11, Loss: 0.4289919688151433, LR: 0.0001
+epoch: 11, Loss: 0.43090393926416126, LR: 0.0001
+epoch: 11, Loss: 0.4291484296321869, LR: 0.0001
+epoch: 11, Loss: 0.4250333346426487, LR: 0.0001
+epoch: 11, Loss: 0.4236412311301512, LR: 0.0001
+epoch: 11, Loss: 0.43456466495990753, LR: 0.0001
+epoch: 11, Loss: 0.44128048890515376, LR: 0.0001
+epoch: 12, Loss: 0.5034575462341309, LR: 0.0001
+epoch: 12, Loss: 0.5205833613872528, LR: 0.0001
+epoch: 12, Loss: 0.5629961291948954, LR: 0.0001
+epoch: 12, Loss: 0.5674136132001877, LR: 0.0001
+epoch: 12, Loss: 0.5176521241664886, LR: 0.0001
+epoch: 12, Loss: 0.49920734763145447, LR: 0.0001
+epoch: 12, Loss: 0.48281181710106985, LR: 0.0001
+epoch: 12, Loss: 0.4665353000164032, LR: 0.0001
+epoch: 12, Loss: 0.46664994292789036, LR: 0.0001
+epoch: 12, Loss: 0.4745003402233124, LR: 0.0001
+epoch: 12, Loss: 0.45946033705364575, LR: 0.0001
+epoch: 12, Loss: 0.45489079256852466, LR: 0.0001
+epoch: 12, Loss: 0.4499877026447883, LR: 0.0001

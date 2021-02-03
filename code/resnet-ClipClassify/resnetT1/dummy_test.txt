@@ -1,0 +1,4 @@
+/Visual-Tactile_Dataset/dataset/Cheez/50_432/right/1/
+/Visual-Tactile_Dataset/dataset/Cheez/50_432/right/5/
+/Visual-Tactile_Dataset/dataset/Cheez/50_432/right/3/
+/Visual-Tactile_Dataset/dataset/Cheez/50_432/right/2/

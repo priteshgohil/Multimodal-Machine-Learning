@@ -1,0 +1,3 @@
+train and validation loss file
+---------------
+0.013818
